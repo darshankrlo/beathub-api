@@ -1,1 +1,3 @@
-welcome to the backend of beathub
+Welcome to the backend of BeatHub.
+- Status: Initial Setup
+- Developer: Darshan
